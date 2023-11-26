@@ -15,13 +15,13 @@ public class Level_0_Solution27 {
 		int[] arr = {0,1,2,4,3};
 		int[][] queries = {{0,4,1},{0,3,2},{0,3,3}};
 		
-		System.out.println(Solution28.method(arr, queries));
+		System.out.println(Solution27.method(arr, queries));
 
 	}
 
 }
 
-class Solution28 {
+class Solution27 {
 	public static int[] method(int[] arr, int[][] queries) {
 		
 		int s;
